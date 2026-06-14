@@ -11,7 +11,7 @@ A Streamlit web application that forecasts future trends using regression and ti
 
 ## 🚀 Live Demo
 
-> Deploy on [Streamlit Cloud](https://streamlit.io/cloud) — connect this repo and set `app.py` as the entry point.
+https://predictive-analytics-rdag6vo3wsrt9ksk5vvrhm.streamlit.app/
 
 ---
 
