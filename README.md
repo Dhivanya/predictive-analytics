@@ -12,9 +12,7 @@ A Streamlit web application that forecasts future trends using regression and ti
 
 ## 🚀 Live Demo
 
-👉(https://YOUR-STREAMLIT-URL.streamlit.app)**
-
----
+👉 **[Click here to open the app](https://predictive-analytics-rdag6vo3wsrt9ksk5vvrhm.streamlit.app/)**
 
 ## 📌 What This Project Does
 
