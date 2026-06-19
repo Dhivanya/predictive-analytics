@@ -2,11 +2,7 @@
 
 A Streamlit web application that forecasts future trends using regression and time-series models on historical datasets.
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.32%2B-red?logo=streamlit)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3%2B-orange)
-![Plotly](https://img.shields.io/badge/Plotly-5.18%2B-blue)
-![Status](https://img.shields.io/badge/Status-Live-brightgreen)
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python) ![Streamlit](https://img.shields.io/badge/Streamlit-1.32%2B-red?logo=streamlit) ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3%2B-orange) ![Plotly](https://img.shields.io/badge/Plotly-5.18%2B-blue) ![Status](https://img.shields.io/badge/Status-Live-brightgreen)
 
 ---
 
@@ -14,9 +10,12 @@ A Streamlit web application that forecasts future trends using regression and ti
 
 👉 **[Click here to open the app](https://predictive-analytics-rdag6vo3wsrt9ksk5vvrhm.streamlit.app/)**
 
+---
+
 ## 📌 What This Project Does
 
 This project takes **historical data** (sales, users, temperature) and:
+
 - Trains **Machine Learning models** on past data
 - **Forecasts / predicts** future values for next 6–18 months
 - Shows **accuracy metrics** — R², MAE, RMSE, MAPE
@@ -38,19 +37,23 @@ This project takes **historical data** (sales, users, temperature) and:
 ---
 
 ## 🗂️ Project Structure
-
-```
 predictive-analytics/
-├── app.py                    # Streamlit dashboard (main entry point)
-├── train_and_evaluate.py     # CLI: train all models, export metrics + plots
-├── requirements.txt          # Python dependencies
-├── utils/
-│   └── data_loader.py        # Synthetic dataset generators
-├── models/
-│   └── forecaster.py         # Model fitting, prediction, evaluation
-└── output/                   # Auto-created: plots + metrics CSV
-```
 
+├── app.py                    # Streamlit dashboard (main entry point)
+
+├── train_and_evaluate.py     # CLI: train all models, export metrics + plots
+
+├── requirements.txt          # Python dependencies
+
+├── utils/
+
+│   └── data_loader.py        # Synthetic dataset generators
+
+├── models/
+
+│   └── forecaster.py         # Model fitting, prediction, evaluation
+
+└── output/                   # Auto-created: plots + metrics CSV
 ---
 
 ## ⚙️ Run Locally
@@ -118,14 +121,12 @@ python train_and_evaluate.py
 
 ## 👤 Author
 
-**Dhivanya**
-B.E. Electronics and Communication Engineering
-SNS College of Engineering
+**Dhivanya** — B.E. Electronics and Communication Engineering, SNS College of Engineering
 
-[![GitHub](https://img.shields.io/badge/GitHub-Dhivanya-black?logo=github)](https://github.com/Dhivanya)
+[GitHub](https://github.com/Dhivanya)
 
 ---
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the MIT License.
