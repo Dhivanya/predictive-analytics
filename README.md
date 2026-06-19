@@ -12,7 +12,7 @@ A Streamlit web application that forecasts future trends using regression and ti
 
 ## 🚀 Live Demo
 
-👉 **[Click here to open the app](https://YOUR-STREAMLIT-URL.streamlit.app)**
+👉(https://YOUR-STREAMLIT-URL.streamlit.app)**
 
 ---
 
